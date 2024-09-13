@@ -1,0 +1,121 @@
+<!DOCTYPE htmL>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+<title>Key chain/Failure test</title>
+
+<!--Bootstrap core CSS -->
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+	<style>
+		div.bordered>div {
+			border:2px solid blue; 
+			height:100px;
+		}
+		div.bordered{
+			margin-top:20px;
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<!-- Navigation -->
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+		<div class="container">
+			<a class="navbar-brand" href="#">3D prints</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item active">
+						<a class="nav-link"href="#">Home
+							<span class="sr-only">(current)</span>
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">About</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Professional 3D Gems</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">444-444-4444 </a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- Page Content -->
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h1 class="mt-5"> Failure Test</h1>
+				<p class="lead">First ENGR assigments</p>
+				<p> printing project</p>
+				<ul class="list-unstyled">
+					<li> First Print</li>
+					<li>Second Print</li>
+					<li>Fails</li>
+					<li>Learning</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="row bordered">
+			<!-- Column 1 -->
+			<div class="col-md-4 col-lg-3"></div>
+				<img src="/IMG_4473.HEIC" alt="Description of Image 1" class="img-fluid">
+				<ul>
+                	<li>This print was the one which allowed me to learn the most about printers and the systems in prusaslicer, the constant back up or errors in printing were helpful to my development in printing the model I needed</li>
+            	</ul>
+            </div>
+            <!-- Column 2-->
+			<div class="col-md-4 col-lg-3"></div>
+				<img src="/IMG_4473.HEIC" alt="Description of Image 2" class="img-fluid">
+				<img src="//IMG_4472.HEIC" alt="Description of Image 3" class="img-fluid">
+				<img src="//IMG_4471.HEIC" alt="Description of Image 4" class="img-fluid">
+				<ul>
+                	<li>Second print</li>
+                	<li>Learning</li>
+                	<li>Learning</li>
+            	</ul>
+            </div>
+            <!--Column 3 -->
+			<div class="col-md-4 col-lg-3"></div>
+				<img src="path/to/your/image3.jpg" alt="Description of Image 5" class="img-fluid">
+				<ul>
+                	<li>Following the instructions provided I was able to install the print into the harddrive after editing it to fit my name, but I ran into multiple issues. First being and adhesion issues which I learned could be caused by the slightest touch to the surface being printed on. </li>
+                	<li>The second time I attempted to print my key chain the nozzle refused to print the remaining chain, which I later learned was caused by under extrusion of the machine, another machine failure./li>
+                	<li>The next time times I would fail would be human error, with the third time being the lack of material being supplied to the printer </li>
+                	<li>fourth being another issue with the printers, as mine grew too close to the surface it meant to print in, scraping the surface of the platform. Initially the process was daunting, I had never printed something like this and so had my classmates but with trial and error, pressing buttons to see what they did, as well as some advice from Penny and other classmates I was able to finally understand and implement the keychain into reality. </li>
+                </ul>
+            </div>
+            <!--Column 3 -->
+			<div class="col-md-4 col-lg-3"></div>
+				<img src="path/to/your/image3.jpg" alt="Description of Image 6" class="img-fluid">
+				<ul>
+                	<li>Learning throughout the process was engaging and difficult,with every new issue that emerges I worried that I was breaking the printer but I'm fortunate to be given those opportunities to learn</li>
+                </ul>
+            </div>
+		</div>
+	</div>
+
+	<!-- Bootstrap core javascript -->
+	<script src="vendor/jquery/jquery.slim.min.js"></script>
+	<script src="vendor/bootstrap/js/boostrap.bundle.min.js"></script>
+
+</body>
+
+</html>
